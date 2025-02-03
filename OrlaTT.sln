@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orla.Api", "Orla.API\Orla.Api.csproj", "{F80F04E0-52AE-408D-999D-D075763B7D0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orla.Core", "Orla.Core\Orla.Core.csproj", "{616EAE21-8654-4977-8B87-75A10680AC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80F04E0-52AE-408D-999D-D075763B7D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80F04E0-52AE-408D-999D-D075763B7D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80F04E0-52AE-408D-999D-D075763B7D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80F04E0-52AE-408D-999D-D075763B7D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616EAE21-8654-4977-8B87-75A10680AC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616EAE21-8654-4977-8B87-75A10680AC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616EAE21-8654-4977-8B87-75A10680AC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616EAE21-8654-4977-8B87-75A10680AC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97518509-42BB-48D0-BBDB-F0D7BEA3CC53}
+	EndGlobalSection
+EndGlobal
