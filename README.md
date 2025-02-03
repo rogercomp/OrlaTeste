@@ -20,5 +20,10 @@ caso não esteja sera considerado o intervalo => 2022-01-01T00:00:00Z à 2022-12
 > Assim como também a chave de  a ConnectionStrings::DefaultConnection
  
 
+## Foi utilizado no projeto:
+- NET Core 8
+- SqlLite
+- EF 8
+- Minimal API
 
 
