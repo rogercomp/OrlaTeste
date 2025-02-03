@@ -1,5 +1,5 @@
 # Instruções
-## 1- Deve-se gerar o database atraves dos comandos de migration:
+## 1- Deve-se gerar o database através dos comandos de migration:
 > dotnet ef migrations add v1 --project .\Orla.API  
 > dotnet ef database update --project .\Orla.API
 
